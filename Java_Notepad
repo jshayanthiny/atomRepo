@@ -1,0 +1,65 @@
+Java Interview Preparations
+
+1. Method overriding - It happens in the runtime and when the same method name defined in super class and child class. For ex. There's Animal parent class and the Dog child class. Both can have eat() method. In this case child class eat/90 is overriding the super class eat().
+
+2. Method overloading - Two/more methods have same method name inside the same class, but different number of arguments. It can be achieved by passing different number of arguments or different data types of arguments. It cannot be achieved by different return type of the method.
+
+3. Static - keyword indicates that can access the method without creating the object.
+   Void -  keyword indicates that it doesn't have a return value.
+
+4. Access Modifiers -
+    i. Public - Can access from anywhere.
+    ii. Private - Can access only within the same class.
+    iii. Protected - Can access within the same package, same class and subclass.
+    iv. Default - Can access only within the package.
+
+5. This - keyword refers to the current object inside the methods.
+
+6. 2 Rules to create the constructor -
+    i. Constructor must not have a return type.
+    ii. Constructor name must exactly same as the class name.
+
+    If a class doesn't have a constructor then java compiler will create the default constructor during run time.
+
+    Constructor cannot be final, static or abstract.
+
+    Constructor  Types:
+      i. Non-argument constructor.
+      ii. Default constructor.
+      iii. Parameterised constructor.
+
+    Constructor can be overloaded but cannot be overridden.
+
+7. Variable - is  memory location (storage area) to hold the data.
+
+8. Nested and inner class -
+    - Can apply any access modifiers like private, protected to the inner class, which is not possible in normal classes.
+    - Using nested class will make the code more readable and provide better encapsulation.
+    - Non-static nested classes (inner classes) have access to the outer class members even if they're declared private.
+
+    - 2 Types of nested class
+      i. Non-static nested class.
+          Accessing outer class member inside the inner class is possible with 'this' keyword.
+      ii. Static nested class.
+          Accessing outer class member inside the inner class is NOT possible. Hence, no reference of the outer class exists with OuterClass.this.
+
+
+
+          Non-static nested class: inner class exist within the outer class.
+          To instantiate the inner class in the main(), you must first instantiate the outer class.
+
+
+          class CPU {
+            class Processor {
+
+            }
+            protected class RAM {
+
+            }
+          }
+
+          Main {
+            CPU cpu1 = new CPU();
+            CPU.Processor proc = cpu1.new Processor();
+            CPU.RAM ram = cpu1.new RAM();
+          }
