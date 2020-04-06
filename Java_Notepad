@@ -5,23 +5,59 @@ Java Interview Preparations
 2. Method overloading - Two/more methods have same method name inside the same class, but different number of arguments. It can be achieved by passing different number of arguments or different data types of arguments. It cannot be achieved by different return type of the method.
 
 3. Static - keyword indicates that can access the method without creating the object.
+    Static methods can be invoked directly from class name. - i.e. className.method()
+    Static variables are generally, global variable unless it declared private. Can access directly. Static instance variable name should be in all capital letters. If there are multiple words then use underscore to separate them.
+
+   Static block - it gets executed exactly once when the class is first loaded in the memory. if your class has different static variables and they needed to initialised individually or through some computation then it is useful to use the static block.
+
+    class StaticEx{
+      static {
+        print ("first bock");
+      }
+      static {
+        print ("second block");
+      }
+      static void meth(int x) {..}
+    }
+
+    main {
+      StaticEx stat = new StaticEx();
+      stat.meth(42);
+    }
+
+    // Output will be :
+      first block
+      second block
+      then meth()
+
    Void -  keyword indicates that it doesn't have a return value.
 
-4. Access Modifiers -
+4. Access Modifiers - Using it forces the better encapsulation to your code. You can control the what part of the program access the members o f the class. Prevent the misuse of data.
     i. Public - Can access from anywhere.
-    ii. Private - Can access only within the same class.
-    iii. Protected - Can access within the same package, same class and subclass.
-    iv. Default - Can access only within the package.
+    ii. Private - Can access only within the same class. - Only methods and data members(fields) can be declared as private.  NOT classes and interfaces can be.
+    iii. Protected - Can access within the same package, same class and subclass. - Only methods and data members(fields) can be declared as private. NOT classes and interfaces can be.
+    iv. Default - Can access only within the package. (package private)
 
-5. This - keyword refers to the current object inside the methods.
+    Access Modifiers - is a keyword that set the visibility of the class, variable, interface, data member(fields), method or constructor and their setters.
 
-6. 2 Rules to create the constructor -
-    i. Constructor must not have a return type.
+5. This - keyword refers to the current object inside the methods/constructors. - The object whose method or constructor is being called. Used with getters and setters.
+    : this reference = com.ThisAndThat.MyClass@74a14482
+    : object reference = com.ThisAndThat.MyClass@74a14482
+
+    - Using this to disambiguate Variable references.
+    - Using this is constructor overloading.
+    - Passing this as an argument.
+
+6. Constructor: 2 Rules to create the constructor -
+    i. Constructor do not have a return type.
     ii. Constructor name must exactly same as the class name.
 
     If a class doesn't have a constructor then java compiler will create the default constructor during run time.
+    When an object of a class is created the default constructor is automatically called.
 
-    Constructor cannot be final, static or abstract.
+    Constructor cannot be final, static or abstract while methods cane be.
+    Purpose of constructor - is to initialise the object of a class. - Invoked automatically when an object is instantiated.
+    Method - is to perform a task by executing the java code.
 
     Constructor  Types:
       i. Non-argument constructor.
@@ -39,27 +75,196 @@ Java Interview Preparations
 
     - 2 Types of nested class
       i. Non-static nested class.
-          Accessing outer class member inside the inner class is possible with 'this' keyword.
+          # Accessing outer class member inside the inner class is possible with 'this' keyword.
+          # Non-static class has access to the members of the outer class, even if they are declared private.
+          # Non-static class need the help from outer class to instantiate itself. - In order to instantiate the inner class, must instantiate the outer class first.
       ii. Static nested class.
-          Accessing outer class member inside the inner class is NOT possible. Hence, no reference of the outer class exists with OuterClass.this.
+          # Accessing outer class member inside the inner class is NOT possible. Hence, no reference of the outer class exists with OuterClass.this.
+          # Static nested class do not have access to the members of outer class/enclosing class, but it can only access the static members of the enclosing class.
+          # Static class doesn't need an instance of enclosing class, in order to be instantiated itself.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+          Example:
 
-
-          Non-static nested class: inner class exist within the outer class.
+          Non-static nested class (inner class): inner class exist within the outer class.
           To instantiate the inner class in the main(), you must first instantiate the outer class.
 
 
           class CPU {
-            class Processor {
-
-            }
-            protected class RAM {
-
-            }
+            class Processor {..}
+            protected class RAM {..}
           }
 
-          Main {
+          main {
             CPU cpu1 = new CPU();
             CPU.Processor proc = cpu1.new Processor();
             CPU.RAM ram = cpu1.new RAM();
           }
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+          Static nested class: can create instance of static nested class directly.
+
+          public class Motherboard {
+            static class USB {..}
+          }
+
+          main {
+            MotherBoard.USB usb = new MotherBoard.USB(); or
+            USB usb1 = new USB();
+          }
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+          Accessing outer class member inside the inner class (non-static) is possible with 'this' keyword. - This is NOT possible with static nested class.
+
+          public class Car {
+            Sting carName, String carType;
+
+            public Car(String name, String type) {
+              this.carName = name;
+              this.carType = type;
+            }
+
+            class Engine {
+              if (Car.this.carType.equals("40WD")) {..}
+              else ..
+            }
+          }
+
+9. Recursion - the method() that calls itself.
+    Disadvantage: it takes more memory and generally slow.
+    Advantage: It's much simpler and takes less time to code, debug and maintain.
+
+    Example:
+
+    public class recursion {
+      static int factorial (int n) {
+        if (n != 0) {
+          return n * factorial(n-1);
+        }
+        else
+          return 1;
+      }
+
+      main {
+        int num = 4;
+        print("factorial of " + num + " is " + factorial(num));
+      }
+    }
+
+10. Java - is an object-oriented programming (OOP). It allows you to divide/make complex problem into smaller sets by creating an objects.
+         - Platform-independent language.
+         - Statically-typed language: All variables should be declared before using it.
+
+         JDK has --> [JRE has --> {JVM + Class Libraries} + Debuggers + Compilers + Java Docs]
+         JDK - Java Development Kit
+         JRE - Java Runtime Environment (abstract machine)
+
+         Java Code (text.java) --> compile (JDK) --> Byte Code (binary.class) --> JVM --> Machine Code --> CPU --> Output
+
+11. Eclipse - Shortcuts
+      Ctrl+Shift+L --> To view all the Shortcuts;
+      sysout+Ctrl+Space --> To print system.out.println();
+      Ctrl+D --> remove unwanted space;
+      Ctrl+O --> To view all the methods in that class;
+      Alt+Shift+W --> Package/Project Explorer;
+      main+Ctrl+Space --> To create a main class;
+      Ctrl+Shift+O --> To import wanted imports;
+      Ctrl+Shift+F --> To make a tab in a code;
+
+
+12. Primitive Types Variable: 1 byte = 8-bits
+      - int - 32 bit - 4 bytes
+      - float - 4 bytes
+      - double - 8 bytes
+      - boolean
+      - short - 16 bit - 2 bytes
+      - long - 64 bit - 8 bytes
+      - byte - 1 byte
+      - char - unicodes - 2 byte
+
+13. Java get the input from the user: Using input stream object in scanner class--> System.in
+      Scanner input = new Scanner(System.in);
+      int inputnum = input.nextInt();
+      int inputnum = input.nextDouble();
+      int inputnum = input.nextFloat();
+      String inputString = input.next();
+
+14. Object - has 2 characteristics : state and behaviour (fields & methods).
+    i.e. Dogs have state (name, colour, breed, hungry) and behaviour (barking, fetching, wagging tail).
+
+    Class - is the blueprint for the object.
+
+15. Final - is a keyword used to define the constant value, cannot change --> final var;
+      : Used to prevent inheritance --> public final class Car{};
+      : Used to prevent overriding method --> public final void start() {}; --> cannot e overridden.
+    Finally - Whatever written inside the finally block will be executed. Always used with the try catch block.
+      : Used to close the DB connection.
+      : Used to close the browser.
+    Finalised - It's a method, related to garbage collector. Used to perform the clean-up memory. It runs just before the garbage collector. --> System.gc(); -> to call the garbage collector.
+      : It calls automatically before garbage collector. -->
+      public void finalised() {
+        print("Finalised method");
+      }
+
+16. Super keyword - used in the subclass to access the superclass members (attributes, constructors and methods).
+    - To access the overridden methods of the superclass. --> If methods with the same name are defined in both superclass and the subclass then the method in the subclass overrides the method in the superclass. To access the overridden method in the superclass we se the super keyword inside the subclass.
+
+    this calls overriding method --> display();
+    this calls overridden method --> super.display();
+
+    - To access the attributes of the superclass. --> When the attribute with the same in superclass and subclass, we use the super keyword to access the attribute of the superclass.
+    - Use super() to access the superclass constructor. --> Subclass constructor will be automatically invoke the superclass default constructor. But it is required if the parametrised constructor of the superclass has to be called from the subclass constructor.
+          : Can be used super() only inside the subclass constructor and must be the first statement.
+
+17. Array - is a container that holds the data of one single type. It allows yo to access large number of values conveniently.
+    dataType[] arrayName;
+    arrayName = new dataType[];
+
+18. Copying an array -
+    i. Using assignment operator.
+        int[] numbers = {1,3,5,7};
+        int[] copyNumbers = numbers;
+        for(int num: copyNumbers) {
+          print(num); // 1,3,5,7
+        }
+
+        If you change the element of the numbers[] array, the element of the copyNumbers[] array also change. It's because both arrays refers to the same array object.
+        This is called shallow copy. solution: deep copy copies the values.
+
+      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    ii. Using looping construct. In below the source and destination arrays doesn't share the same reference (deep copy).
+          int[] source = {9,7,5,3};
+          int[] destination = new int[4];
+
+          for (int i=0; i<source.length; i++) {
+            destination[num] = source[num];
+          }
+          print(Arrays.toString(destination)); // --> To print the array --> Arrays.toString(destination);
+
+    iii. Using arraycopy() method. System class contains arraycopy() which allows to copy data from one array to another.
+          arraycopy(object sourceArray, int startIndexoftheSourceArray, object destinationArray, int startIndexoftheDestinationArray, int numberOfElementsToCopy)
+
+          int[] n1 = {1,2,3,4,5,6};
+          int[] n3 = new int[5];
+
+          System.arraycopy(n1, 1, n3, 2, 2); // 0,0,2,3,0
+
+    iv. Using copyOfRange() method.
+          copyOfRange(object sourceArray, int start(from)IndexoftheSourceArray, int end(to)IndexoftheSourceArray)
+          int[] source = {9,7,5,3};
+
+          int[] destination = Arrays.copOfRange(source, 2, 5); //
+
+    v. Copying 2D Arrays using loop.
+
+          int[][] source2 = { { 1, 2, 3, 4 }, { 5, 6 }, { 0, 2, 42, -4, 5 } };
+          int[][] destination2 = new int[source2.length][];
+
+          print("Source2 Length is : " + source2.length); // 3
+          for (int i = 0; i < source2.length; i++) {
+            destination2[i] = source2[i];
+            for (int j = 0; j < source2[i].length; j++) {
+              destination2[i][j] = source2[i][j];
+            }
+          }
+          print(Arrays.deepToString(destination2));
