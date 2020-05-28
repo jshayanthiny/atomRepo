@@ -2,9 +2,35 @@ General Questions
 
 What do you enjoy the most about being a tester? What do you enjoy the least?
 
+Because every feature and every project provides different testing problems, there is never a straightforward, “one size fits all” testing solution. Some of the most fun we have in software testing is in finding the best possible testing strategy, tool and execution. Software testing is about looking at product from different angles, with different perspectives and testing it with different expectations. It is not always easy to develop the right mind set and test the product from different aspects.
+
+Because software testers experience challenges every day, they have to stretch your mind to understand a product’s functionality and general behavior, to improve analysis power, to learn new tools and to implement the learning in real life. What is even more critical than understanding is innovation, the generation of new ideas, and being able to comprehend the big picture.
+
+Comprehending and testing products, while considering factors like functionality, performance, security and many others, is a multi-faceted and complex task. Furthermore, the intricacies due to mobile applications has exponentially complicated the testing of software. One of a software tester’s biggest challenges resides in understanding the vast range of devices available and checking the application’s behavior in terms of response time and usability.
+
+“I love the challenge of meeting an impossible deadline. I like to compare it to training for a race – how can I get the job done more quickly without sacrificing quality?”
+“I like tight deadlines because they help maintain a sense of urgency. When you have a lot more time than you need to complete a project, it’s easy to get complacent.”
+
+Exploring. I love exploring an application to learn how it works. My first few days in a new job are usually when I ask to be told nothing about the product and let me explore. This helps me gauge how intuitive the application is for users before I start getting biased by what it should do or being there too long to notice the little things that are just not nice for a user.
+
+Getting positive feedback, that feeling you get when a customer gives you good feedback about the service that I helped the team deliver. Things like “Where has this been all my life? I love this product!”, okay slightly over dramatic, but you get the idea.
+
+Community. I was previously a developer. It often felt like Google was my only friend when I needed help. I could not believe the community that software testing had when I first found it. I’m usually only ever 2 or 3 degrees of separation away from finding an answer to my questions. It’s good to have people you can talk to when you’re a lone tester and it’s especially good when those people help you get answers quicker so you can move past obstacles faster.
+---
+
+Missing bugs. Despite all the advice to not shoulder the burden of the guilt with this, I always do. I hate missing bugs, particularly if the customer is the one who ends up raising it with you. I feel like I’ve done a terrible job and that everyone thinks I’ve done a terrible job, even if this isn’t the case.
+Raising Bugs. Despite 1 above, I don’t enjoy raising bugs. It’s that look on the developers face “Is she going to ruin my day or just ask if I want a cup of tea?” I much prefer to find potential issues before a line of code is ever written but that’s not always possible.
+
 What contributes most to your job satisfaction? (e.g what do you want to get out of your job)
 
+‘Over the last six years, I have worked very hard to reach a position of leadership. For me, being a manager gives me a feeling that my work, actions, and coaching of my team members actually matters.
+
+I’m a very energetic person that gets satisfaction from coming up with creative solutions in fast-paced environments like the one your company is active in. If my attitude and work ethic can positively contribute to a greater goal, such as that of my team, that is really satisfying for me as a professional.’
+
+"I have worked very hard to gain a leadership position. Being a manager gives me the sense that my work and actions genuinely matter to other people. If my work ethic and attitude can positively influence someone else, that is the most satisfying moment for me."
+
 Why are you looking for a new job?
+I moved to Sydney recently, before moving I quit my job in Virtusa, Sri Lanka.
 
 Which of the following best describes your level of comfort with automating tests?
 -No professional experience
@@ -13,6 +39,7 @@ Which of the following best describes your level of comfort with automating test
 -Can set up a framework and own automated testing
 
 How do you keep up to date with the latest testing standards / trend? Who is someone you follow?
+I used to
 
 What are the last 3 things you searched for on stack overflow?
 
@@ -23,27 +50,127 @@ When have you automated an everyday task to make your life easier?
 When have you implemented a new testing strategy or process at your workplace?
 
 Which of James Bach's 'Seven Kinds of Testers' do you best identify with?
+I identify myself as a
 
----------------------------------------------------------------------------------------------------------------------------
+Technical tester, I love to learn and use new tools and find the most efficient way to test the application. Also, I find myself as a analytical tester where I challenge myself to
 
-Are a PR of citizen? I am holding a partner visa where I can work without any limitations which is equivalent to PR.
+Analytical Tester. The analytical tester loves models and typically enjoys mathematics (although not necessarily). Analytical testers create diagrams, matrices, and outlines. They read long specs. They gravitate to combination testing. (If I had to choose one category to be, I would have to say I am more analytical than anything else.) Warning: Analytical testers are prone to planning paralysis. They often dream of optimal test sets instead of good enough. If they can’t easily model it, they may ignore it.
+
+Technical Tester. The technical tester builds tools, uses tools, and in general thinks in terms of code. They are great as advocates for testability because they speak the language of developers. The people called SDETs are technical testers. Google and Microsoft love technical testers. (As a programmer I have one foot in this pattern at all times.) Warning: Technical testers are often tempted not to test things that can’t easily be tested with the tools they have. And they often don’t study testing, as such, preferring to learn more about tools.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Are a PR of citizen? I am holding a partner visa (subclass 309) that allows me to work without any limitations, which is equivalent to PR.
+
 How many years (and which companies) have you worked locally for?
+I worked with Telstra ( remotely) for 2 years, from 2017 Jan to 2018 Dec.
+
 
 Outline a brief of your system applicational testing work (2 statements)?
-1. Healthcare insurance web application, did the end-to-end testing of the application
-I have over 4 years of experience in end-to-end application testing vertical. 
+
+
+I have over 4 years of experience in both  manual and automation end-to-end testing. As far as system testing is concerned,  I have expertise in  Smoke, Functional, Regression, Back-End,User Acceptance and Exploratory testing.
+
 
 Aggregate years of the following have you done:
-- Experience in Software development work - Haven't done the pure code only work, but developed the automation script using Selenium with Java and Groovy with Geb.
-- Experience in Software or System testing work - 4 Years
-- Experience in Clinical, Health or Medical Applicational Testing work - Having 1 Year of experience with Healthcare Insurance.
+- Experience in Software development work - I haven't done the pure 'code only' work, but I have developed the automation script using Selenium with Java and Groovy with Geb.
+- Experience in Software or System testing work - 4 Years.
+- Experience in Clinical, Health or Medical Applicational Testing work -  1 Year of experience with Healthcare Insurance.
 - Experience with eHealth or other relevant government agencies - No
 - Experience in technical support of Clinical Application Service - No
 - Experience working in Clinical, Medical or Health industry - No
-- Experience working with ISO/IEC/IEEE 29119 standards - 4 Years
+- Experience working with ISO/IEC/IEEE 29119 standards - 4 Years.
 
 List relevant degree, training and certification : BSc. in Information Technology
                                                    ISQB Foundation Certification
 
 This is a government contract role between 400-450 +Super in Chatswood. Where do you live? What are you previously/currently on (hourly rate/salary) and what is your contract (daily) expectations for this role?
-North Sydney, as I moved to the Sydney recently this will be my first job in Australia. Expected for this position would be somewhere between
+I live in North Sydney. As I moved to the Sydney recently this will be my first local job in Australia. I am expecting somewhere between 450 and 500 AUD, however I am open for negotiation.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Tell me what you are like as a team member.
+What makes you feel valued?
+Do you enjoy the culture of your current company?
+What kind of people do you enjoy working with?
+Do you find your work meaningful?
+What is your ideal work environment?
+What gives you satisfaction in your job?
+Does our company offer you adequate opportunities for you to develop yourself?
+What makes you happy in your work?
+What causes you to feel dissatisfied in your work?
+How will this position fit in your career plan?
+Describe your ideal employer.
+How do you define success?
+What attracts you the most to this position?
+Do you prefer working on a team or individually?
+What motivates you on the job?
+How do you feel about joining a new company?
+Can you tell me about the responsibilities in your current position that you really enjoy?
+Name me one thing that you would change about your career path.
+Tell me about the least favorite aspect of your current position.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Searching on Google ( new treands in QA )
+2. My onsite QA LEAD in NYL ( I have learned so many things from him)
+3. Didn't remember much ..but as I remember I hav searched some Excel formulas , queries and selenium codes
+4. When I was in NYL I have found a showstopper bug which was caused to shut down whole NYL servers. Most interesting part is I have found it in last minute and UAT was just started. They have fixed it immediately😅
+5. When I was in NYL, We have to execute like 1000 test cases and it's very hard to track test results and get the correct update as that time we had like 10 team members. With the help of my QA lead we have update all Excel sheets with formula to get correct pass/fail count with the defect IDs. It was easy to share the final update to all stakeholder's on time.
+5. When I was in NYL there was a project related commission calculation. I have created Excel sheet which had all calculations using Excel formulas. It was very useful to whole team members to calculate commissions correctly and we were able to save execution time.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11th May 2020 - 10:16 PM
+
+2. Need to apply for the testing vacancies - going on.
+8. Need to check the TopstepFX
+9. Need to plan for Uthayan's birthday.
+10. Search and learn the strategy for not momentum market.
+11. Clean the kitchen before Uthayan's birthday.
+12. Clean that box area before Uthayan's birthday.
+13. Clean the shoes things before Uthayan's birthday.
+14. Buy below things ..
+      i. Shoe track
+      ii.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi Niklesh,
+
+I do not have Australian Citizenship, I have a partner visa subclass of 309 (where I am eligible to work without any limitation).
+
+I don't remember anyone who's having Australian Citizenship right now, will let you know if I remember anyone.
+
+Thanks & regards,
+Shay Jegan

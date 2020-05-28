@@ -1,0 +1,211 @@
+Bullish - Green
+Bearish - Red
+
+Support Level
+Resistance level
+
+Wicks/Shadows/Tails
+Doji Candles - Price opens and close at the very near/same price. Doesn't have a body.
+
+Open, High, Low & Close
+
+Weak price rejection - Strong buyers in control
+Strong price rejection - Weak buyers in control - if the wick is much longer than the body.
+Always see the body relative to the wick.
+
+Small wick & long body - Constraint pattern
+Small wick & small body - Indecision pattern
+Long wick & small body - Weak price rejection - Strong buyers in control
+
+--------------------------------------------------------------------------------14th Apr 2020---------------------------------------------------------------------------------------------------------
+
+T.A.E Framework - Trend, Area of Value, Entry Trigger.
+Trend - Selection of short or long. Up trend - looking to buy; Down trend - looking to sell;
+Area of Value - Support/Resistance, Moving Average, Trendline, Channel, etc.
+Entry Trigger - Reversal candlestick patterns.
+
+Down trend
+Resistance level
+Rejection of higher prices- shooting star.
+
+Down Trend
+Moving average - dynamic resistance
+Bearish engulfing
+
+
+Candlestick Patterns:
+1. Bearish engulfing pattern and bullish engulfing pattern - useful to identify the market reverses.
+
+2. Hammer and shooting star -
+      : Hammer is a bullish reversal, because shows you the price rejection in the market. - Rejection of the lower prices. - Bullish
+      : Shooting star shows you the rejection of higher prices. - Bearish
+
+3. Dragonfly and Gravestone Doji -
+      : Rejection of lower prices
+            ---
+             |
+             |
+             |
+
+      : Rejection of higher prices
+             |
+             |
+             |
+            ___
+
+4. Morning & Evening star -
+      : Morning star is a bullish reversal pattern - Red + Green
+      : Evening star is a bearish reversal pattern - Green + Red
+
+5. Tweezer bottom and top -
+      : Tweezer bottom is a 2 times of a rejection of lower prices.
+      : Tweezer top is a 2 times of a rejection of higher prices.
+
+
+
+Pullback strategy -
+Counter Trend strategy -
+Range-bound strategy -
+Breakout Strategy -
+
+--------------------------------------------------------------------------------15 Apr 2020---------------------------------------------------------------------------------------------------------
+
+Pip - Last before decimal
+Point - Last unit of decimal
+1 pip = 10 Points
+1.18165 --> 1.18175 --> the change is 1 pip and 10 points.
+1 lot = 100,000 units of currency
+Mini lot = 10,000 units
+Micro lot = 1000 units
+
+
+If EUR/USD = 1.18165
+1 lot = 118,165 USD
+1 mini lot = 11,816.5 USD
+1 micro lot = 1181.65 USD
+
+Leverage 1:500
+Can trade lot by using 236.38 USD because of the 1:500 leverage. --> 118,165/500 = 236.33
+
+How to calculate your potential profit?
+Cost of 1 pip -->
+
+1 pip for 1 lot : 100,000 units of base currency * 0.0001 USD = 10 USD --> 10 pips for lot : 100 USD (1.18165 to 1.18265)
+1 pip for mini lot = 10,000 * 0.0001 = 1.0 USD
+1 pip for micro lot = 1000 * 0.0001 = 0.1 USD
+
+How many USD do you need to buy 100 EUR, if the price of EUR/USD is 1.15103? 115.103
+What will be your profit amount if you sell 0.5 lot of EUR/USD and the price falls down by 1 pip? $10 Wrong ($5 right answer)
+What is Leverage? A special loan provided to a trader at the moment of opening an order.
+
+Currency pairs --> Base currency and quote currency --> EUR/USD (USD/AUD --> to buy 1 USD you need to spend x amount of AUD).
+
+
+For Micro..
+$2000 investment without leverage.
+You open a buy order at the price 110.872 and hold the trade for about 37 hours until you close it at 112.482. During that time, the price has increased by 161 pips.
+The price of a pip, in this case, is $0.18.
+This way you have earned $28.98. ($0.18 * 161).
+
+For Lot..
+$2000 investment with leverage. ($100,000)
+You open a buy order at the price 110.872 and hold the trade for about 37 hours until you close it at 112.482. During that time, the price has increased by 161 pips.
+The price of a pip, in this case, is $9.09.
+This way you have earned $1463. ($9.09 * 161).
+
+Margin - is an amount of money on your trading account required for opening new positions and keeping initiated trades open - broker needs to be sure that you are capable to cover a potential loss of the trade.
+If the leverage is 1:50; the margin amounts to 2% of the order volume.
+If the leverage is 1:100 the margin amounts to 1% of the order volume.
+
+Account Equity - to track the outcome of your trades altogether --> It represents the account value that you will have had if all your orders were closed at that time.
+Equity = Account balance + Open order's profit - Open order's loss
+
+Margin level shows whether your equity is enough to support your open orders.
+If your equity becomes less than a margin required for all of your opened orders, you will get a margin call.
+
+Margin Level = Equity/Margin * 100%;
+Whenever you open a new order, make sure your margin Level is 500% or higher. It is a good practice to keep your margin Level at around 1000
+Account Balance = $2000; Equity = $1978; Margin Level = 989%;
+Account Balance = $2000; Equity = $2039; Margin Level = 1020%;
+
+Margin Level < 100% --> Danger zone
+Margin Level = 25% --> The margin call will be triggered --> so you need either to top up your account balance or to increase the equity or close the position and fix the loss.
+Margin Level = 15% --> The stop out will be triggered --> your orders will be closed automatically.
+
+Margin call - is a notice from your broker triggered when your losses are about to become bigger than your margin.
+
+Fibonacci Strategy:
+Retracement - a short-term change in a stock's price relative to an overarching trend.
+Retracement = Price corrections = Temporary price reversals -->
+
+Pullback - Uptrend - Long - Buy & Sell
+Rally - Downtrend - Short - Sell & Buy
+
+Retracement levels: 0.236, 0.382, 0.500, 0.618, 0.764
+Most popular retracement levels are: 38.20%; 50%; 61.80%; (up-trend)
+Extension levels: 38.20%, 50.00%, 61.80%, 100.0%, 138.2%, 150.0%, 161.80%
+Swing high and swing low points:
+
+Entry criteria: If the price is beyond the 50% level --> time to switching the move on the other direction.
+38.20% --> Support level --> wait for confirmation the price will move back of the direction at 50% (downtrend to up-trend).
+
+Exit criteria: 1. Stop-loss
+               2. Target profit
+
+Stop loss just before support/resistance level for long/short accordingly - Above/below last retracement.
+Fibonacci retracements - for entries
+Fibonacci extensions - for profit targets
+
+
+
+Extension levels: 0, 0.382, 0.618, 1.000, 1.382, 1.618
+
+
+--------------------------------------------------------------------------------16 Apr 2020---------------------------------------------------------------------------------------------------------
+Swing Trading Strategies:
+  1. Stuck in a box
+  2. Catch the wave
+  3. Fade the move
+
+Relative Strength Index (RSI Indicator) -
+
+--------------------------------------------------------------------------------17 Apr 2020---------------------------------------------------------------------------------------------------------
+EMA - 9
+EMA - 20 - Blue colour - when it cuts the bearish down wick --> then it'll go up. So we find the recent high hit and set the target 2:1.
+EMA - 50
+
+Bollinger Bands -
+Market volatility proportional to length of B.B
+B.B either expands/stinks.
+Default value - Period - 20; Deviation - 2%;
+
+When it's getting narrow which means there will be a vast change either upward/downward.
+
+Constriction - decreased volatility
+Bullish expansion - upper band upside and lower band lower side and the markets are in upper band --> It'll go upward and good time to enter into the market --> more volatile move.
+Bearish expansion - upper band upside and lower band lower side and the markets are in lower band --> It'll go downward. --> Need to think twice before trade.
+
+Relative Strength Index (RSI Indicator) -
+Oversold - High price - high demand - (High sell & low buy) - 100;
+Overbought - Low price - 0;
+
+High RSI - market increased rapidly;
+Low RSI - market decreased sharply;
+
+Good approach --> combine support/resistance level + RSI;
+Overbought more than 70 + Resistance level --> good to go to short.
+
+--------------------------------------------------------------------------------30 Apr 2020---------------------------------------------------------------------------------------------------------
+1 hr --> strong support and resistance.
+15 mins - minor support and resistance.
+
+RSI + MACD
+
+
+
+
+--------------------------------------------------------------------------------07 May 2020---------------------------------------------------------------------------------------------------------
+
+Blue - 5 mins graph support/resistance.
+Pink - 15 mins graph support/resistance.
+Orange - 1 hr graph support/resistance.
