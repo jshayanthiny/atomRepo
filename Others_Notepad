@@ -1,6 +1,6 @@
 General Questions
 
-What do you enjoy the most about being a tester? What do you enjoy the least?
+1. What do you enjoy the most about being a tester? What do you enjoy the least?
 
 Because every feature and every project provides different testing problems, there is never a straightforward, “one size fits all” testing solution. Some of the most fun we have in software testing is in finding the best possible testing strategy, tool and execution. Software testing is about looking at product from different angles, with different perspectives and testing it with different expectations. It is not always easy to develop the right mind set and test the product from different aspects.
 
@@ -21,7 +21,7 @@ Community. I was previously a developer. It often felt like Google was my only f
 Missing bugs. Despite all the advice to not shoulder the burden of the guilt with this, I always do. I hate missing bugs, particularly if the customer is the one who ends up raising it with you. I feel like I’ve done a terrible job and that everyone thinks I’ve done a terrible job, even if this isn’t the case.
 Raising Bugs. Despite 1 above, I don’t enjoy raising bugs. It’s that look on the developers face “Is she going to ruin my day or just ask if I want a cup of tea?” I much prefer to find potential issues before a line of code is ever written but that’s not always possible.
 
-What contributes most to your job satisfaction? (e.g what do you want to get out of your job)
+2. What contributes most to your job satisfaction? (e.g what do you want to get out of your job)
 
 ‘Over the last six years, I have worked very hard to reach a position of leadership. For me, being a manager gives me a feeling that my work, actions, and coaching of my team members actually matters.
 
@@ -29,30 +29,28 @@ I’m a very energetic person that gets satisfaction from coming up with creativ
 
 "I have worked very hard to gain a leadership position. Being a manager gives me the sense that my work and actions genuinely matter to other people. If my work ethic and attitude can positively influence someone else, that is the most satisfying moment for me."
 
-Why are you looking for a new job?
+3. Why are you looking for a new job?
 I moved to Sydney recently, before moving I quit my job in Virtusa, Sri Lanka.
 
-Which of the following best describes your level of comfort with automating tests?
+4. Which of the following best describes your level of comfort with automating tests?
 -No professional experience
 -Can code tests with help
 -Can help others
 -Can set up a framework and own automated testing
 
-How do you keep up to date with the latest testing standards / trend? Who is someone you follow?
+5. How do you keep up to date with the latest testing standards / trend? Who is someone you follow?
 I used to
 
-What are the last 3 things you searched for on stack overflow?
+6. What are the last 3 things you searched for on stack overflow?
 
-What is a memorable bug you found?
+7. What is a memorable bug you found?
 
-When have you automated an everyday task to make your life easier?
+8. When have you automated an everyday task to make your life easier?
 
-When have you implemented a new testing strategy or process at your workplace?
+9. When have you implemented a new testing strategy or process at your workplace?
 
-Which of James Bach's 'Seven Kinds of Testers' do you best identify with?
-I identify myself as a
-
-Technical tester, I love to learn and use new tools and find the most efficient way to test the application. Also, I find myself as a analytical tester where I challenge myself to
+10. Which of James Bach's 'Seven Kinds of Testers' do you best identify with?
+I identify myself as a Technical tester, I love to learn and use new tools and find the most efficient way to test the application. Also, I find myself as a analytical tester where I challenge myself to
 
 Analytical Tester. The analytical tester loves models and typically enjoys mathematics (although not necessarily). Analytical testers create diagrams, matrices, and outlines. They read long specs. They gravitate to combination testing. (If I had to choose one category to be, I would have to say I am more analytical than anything else.) Warning: Analytical testers are prone to planning paralysis. They often dream of optimal test sets instead of good enough. If they can’t easily model it, they may ignore it.
 
@@ -112,6 +110,15 @@ Can you tell me about the responsibilities in your current position that you rea
 Name me one thing that you would change about your career path.
 Tell me about the least favorite aspect of your current position.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. What do  you like about testing?
+It's challenging. Software Testing is about looking at a product from different angles, with different perspectives and testing it with different expectations. It is not easy to develop the right mindset and to test the product with different aspects.
+
+software testing is not limited to executing test cases. One has to understand the results, has to generate a matrix and also needs to analyze a product’s behavior accordingly.
+
+2. Explain why you are suitable for the job?
+I worked in a multiple projects with different domains. When I enter into each project it's new environment, new domains and new technologies. Especially when it was an ongoing project I need to grab things quickly as a senior QA Engineer. I started my career with manual testing and I wanted to get involved in the automation, so I voluntarily started to automate the web application in my Telstra project. I believe that I am quick learner so I can handle any new domains, technologies and environments.
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -127,43 +134,6 @@ Tell me about the least favorite aspect of your current position.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-11th May 2020 - 10:16 PM
-
-2. Need to apply for the testing vacancies - going on.
-8. Need to check the TopstepFX
-9. Need to plan for Uthayan's birthday.
-10. Search and learn the strategy for not momentum market.
-11. Clean the kitchen before Uthayan's birthday.
-12. Clean that box area before Uthayan's birthday.
-13. Clean the shoes things before Uthayan's birthday.
-14. Buy below things ..
-      i. Shoe track
-      ii.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Hi Niklesh,
@@ -174,3 +144,352 @@ I don't remember anyone who's having Australian Citizenship right now, will let 
 
 Thanks & regards,
 Shay Jegan
+
+
+
+---------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Whenever I’m having a bad day, I know that I can count on your love and affection to cheer me up. You make me feel special every day. Today, I want to take the opportunity to make you feel extra special.”
+Happy Birthday my amazing husband. I love the way you love me. I hope you feel the love I have for you, as well. Happy Birthday to the most special man.
+
+“Never in a million years did I think I would be this happy to have the perfect man standing behind me, supporting me with my silly ways and making me laugh all the time. I enjoy every moment we share together. Love you and Happy birthday!”
+
+“Happy birthday from the most incredible, loving, beautiful wife on the face of the planet! I love you to the moon and back!”
+
+Thank god for giving me the chance to stay with the finest man in the world. Happy Birthday.
+
+“Thank God for giving me the most handsome, loving, and smart husband in this world. Happy birthday!”
+
+
+My wishes are always with you. Best birthday!”
+
+----
+“I can’t count how many times in a day I think of you. You’re always on my mind and in my heart. For your birthday, I want to make it known that I love you more than life itself.”
+
+“To the handsomest man on earth, you are aging like wine. The older you get and the greyer your hair is, the hotter you are. Happy birthday. Just keep aging with me.”
+
+"You do not know every night I thanked heaven for having allowed me to marry the kind and loving man I ever met. Happy birthday my husband!”
+
+“You are and you will always be the prince of my life. I’m so glad that I’m married to you. Thank you so very much for loving me the way you do. You complete me! Happy birthday dear!”
+
+“On this special day, I make a promise that we will grow old together gracefully and watch the sunset of our lives with our hands held, eyes locked and lips sealed. Wishing you a very happy birthday!”
+
+Despite the arguments, the ups and downs; you will always remain my reason for living. I love you and will always love you.
+
+My Love, I can’t possibly fit on this card all the reasons I love you. I appreciate so many things about you - your strength, your sense of calm, your character, integrity, and passion, your sense of humor and how fun you are. I could go on and on... Happy Birthday Husband, my love for you knows no bounds.
+
+I wanted to get you something truly amazing and inspiring for your birthday and then I remembered that you already have me.
+Happy Birthday!
+
+Happy birthday to a special person, bringing so much joy to my heart! I cherish every moment that we spend together and I wish you never ending happiness!!
+
+
+
+
+I have no idea what to say But I love you and I am here..
+
+
+-------------------------------------------------!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!_-------------------
+
+When I close my eyes, I see you. When I open my eyes, I see you. There is nothing I can do without thinking of you.
+Your kindness and super care always make me wonder what life would have been without you. You are my hero and I love you eternally.
+There are only two times that I want to be with you… Now and Forever.
+My heart for you will never break. My smile for you will never fade. My love for you will never end. I love you!
+Words aren’t enough to tell you how wonderful you are. l love you.
+I’m grateful you are thoughtful, I’m grateful you are understanding, I’m grateful you are so much fun to be around, but most of all I’m grateful you are my husband. I love you!
+Your love is like a warm blanket that protects me from the misery and pain that engulfs the world. My knight, my protector, my provider, I love you.
+I love it when I catch you looking at me.
+Every day with you is a wonderful addition to my life’s journey.
+
+
+Most women have a certain degree of fear about growing old, as did I. However, as long as I get the opportunity to grow old with you, I know I’ll be just fine.
+I know the meaning of true love because you showed it to me. You have been with me through everything, and you have shown me nothing but unconditional love. Thank you, my love.
+I’ll do everything I can to support you in good and bad times. I love you.
+Do you know how wonderful it feels to go to bed each day and know that you are mine and I am yours? You make my heart melt.
+You do a million little things that bring joy to my life.
+If someone asked me to describe you in just two words, I’d say “Simply Amazing.”
+Your smile is literally the cutest thing I’ve ever seen in my life.
+My six-word love story: “I can’t imagine life without you.”
+
+So far, every moment we’ve spent together has been awesome. But I promise you, that the best is yet to come.
+
+
+You’re the reason I enjoy the taste of fine wine, the smell of fresh flowers, and the flavors of the best food. Life is good because of you.
+When I look at you, I can see the rest of my life in your eyes.
+I was not planning on falling in love with you, but I am sure glad that I did.
+I love you more than words can ever say.
+----
+
+1. Washroom Wall --> Note for you --> ..Your kindness and super care always make me wonder what life would have been without you. You are my hero and I love you eternally.. --> Find the rest of the notes --> Before that you need to have a bath.
+2. In the bathroom --> ..Every day with you is a wonderful addition to my life’s journey.. --> Have a bath and come, your morning plain tea is waiting for you.
+3. In his cupboard --> ..Your smile is literally the cutest thing I’ve ever seen in my life... -->
+4. In the plain tea mug --> ..You do a million little things that bring joy to my life.. --> It's the time for you to have a quick walk near your car and find the next note.
+5. In the shoe track cupboard --> ..So far, every moment we’ve spent together has been awesome. But I promise you, that the best is yet to come.. -->
+6. In the Car --> ..I’m grateful you are thoughtful, I’m grateful you are understanding, I’m grateful you are so much fun to be around, but most of all I’m grateful you are my husband. I love you!.. -->
+7. In the breakfast plate -->  ..My six-word love story: “I can’t imagine life without you.. -->
+8. In his monitor place --> ..I am madly and deeply in love with you. You can see it in my smile.. -->
+9. Lunch time --> ..There are only two times that I want to be with you… Now and Forever.. -->
+10. Again washroom --> ..Words aren’t enough to tell you how wonderful you are. l love you.. -->
+11.
+
+
+I have no idea what to say But I love you and I am here..
+
+
+
+
+
+---
+1. “It’s your birthday and I think it’s the perfect day to reveal one truth that you are the most amazing person in my life".
+2. “You are and you will always be the prince of my life. I’m so glad that I’m married to you. Thank you so very much for loving me the way you do. You complete me! Happy birthday dear!”
+3. “Never in a million years did I think I would be this happy to have the perfect man standing behind me, supporting me with my silly ways and making me laugh all the time. I enjoy every moment we share together. Love you and Happy birthday!”
+4. Despite the arguments, the ups and downs; you will always remain my reason for living. I love you and will always love you.
+5. “On this special day, I make a promise that we will grow old together gracefully and watch the sunset of our lives with our hands held, eyes locked and lips sealed. Wishing you a very happy birthday!”
+6. I wanted to get you something truly amazing and inspiring for your birthday and then I remembered that you already have me.
+Happy Birthday! :P
+7. My Love, I can’t possibly fit on this card all the reasons I love you. I appreciate so many things about you - your strength, your sense of calm, your character, integrity, and passion, your sense of humor and how fun you are. I could go on and on... Happy Birthday Husband, my love for you knows no bounds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi Danielle,
+
+I would love to hear about this opportunity.
+
+Please find my attached resume for your kind perusal.
+
+Thanks & Regards,
+Shay Jegan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Collaborating, enables businesses to finish important projects and meet crucial deadlines efficiently. With multiple individuals working on a project, the work can be divided up equally and efficiently between those with the time and the expertise to handle specific tasks. This also significantly reduces the project delivery time. Often referred to as the divide and conquer strategy, it entails teaming up of several individuals together, dividing up the tasks among them, and accomplishing the project in relatively less time.
+
+Pooling of Talent and Strengths- When members of a team collaborate, they are able to utilize the knowledge, experience and skills of everyone involved. For instance, one member may struggle with presentation skills, but might know all about the technical aspects involved. Effective collaboration will allow all the members to share their talent and find the most optimal solution to every problem. This will augment the chances of the business to achieve more in less time.
+Development of Employee Skills- Collaboration is mutually beneficial for the employees as well as the organization because when they work together, interact and share ideas, they see and understand how others work, think, negotiate and operate. This gives all the employees a chance to pick up skills from their colleagues or team mates and build upon their strengths. These newly-learned skills can then be practiced in their own field to look at things with a new perspective and make improvements and enhancements.
+Speed up Solutions- Collaboration speeds things up. It fast-tracks progress. A problem that may take months to get resolved when handled by a single individual, but may take just a few hours to resolve when several other members employ their unique standpoints and expertise to get things done. These viewpoints will open up several doors to multiple ideas and solutions that a single individual may not be able to come up with.
+
+
+
+
+
+
+
+
+
+1. Consistently demonstrates behaviours that reinforce the CORE Values of our organisation; Collaboration, Openness, Respect and Empowerment. Demonstrates these behaviours with all stakeholders; colleagues, direct reports, as well as our patients and consumers, and those that care for them.
+https://www.nslhd.health.nsw.gov.au/Careers/Documents/NSLHD%20CORE%20Values%20and%20Behaviours%20Charter.pdf
+https://www.health.nsw.gov.au/careers/ministry/Pages/CORE-values.aspx
+
+Supervised the set of  junior software testers to acquire business and technical knowledge.
+Lead the set of junior testers by guiding and mentoring while overlooking the work to make sure that the targets were achieved on time with high quality.
+Worked with the PM and test Manager to identify resources, scope and limitations of testing.
+Helped other team members when they were struggling to complete the tasks on time.
+Actively listened to other team members' concerns, ideas and suggestions.
+Encouraged other team members for their contribution.
+Collaborated closely with a team of 20 other members.
+Consistently beat deadlines and received high praise from clients.
+
+
+
+2. Tertiary qualifications relevant to health system administration or data analysis and/or equivalent extensive experience.
+BSc. in Information Technology - Curtin Technology
+ISTQB Foundation Certification.
+
+
+Worked as a software engineer/developer for 5 years.
+Including data analysis/project management.
+
+
+3. An understanding of the Australian health system, including how healthcare is delivered, funded and managed in different settings.
+https://www.health.gov.au/about-us/the-australian-health-system
+
+
+-------------------- --------- ---------
+
+During my past position as a software associate consultant , I supervised junior software testers to acquire business and technical knowledge. I lead them by guiding and mentoring while overlooking
+their technical work to make sure the targets were achieved on time with high quality. I helped them figure out the solutions when they were struggling to complete the task on time. I scheduled brainstorming sessions to get them thinking about the solutions.
+In addition I  collaborated  with project managers and test managers to identify resources, scope and limitations of software testing.
